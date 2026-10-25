@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm André 👋
 
-<!--
-**Dremaia/Dremaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student from Brazil, currently working as an operations
+supervisor in a telemarketing team while building my path into software development.
 
-Here are some ideas to get you started:
+### 📚 Learning
+JavaScript / TypeScript (main focus) · Python · C · HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goal
+Become a professional full-stack developer and work in Europe.
+
+### 🌍 Languages
+Portuguese (native) · English · learning Spanish and Mandarin
+
+📫 andremaiac@hotmail.com
